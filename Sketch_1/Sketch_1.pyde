@@ -6,7 +6,7 @@ def setup():
     ellipse(200, 200, 225, 300)
     textSize(60)
     fill(0, 0, 0)
-    someText = "love"
+    someText = "LOVE"
     text("PEACE", 110, 220)
     textSize(40)
     text(someText, 160, 260)
